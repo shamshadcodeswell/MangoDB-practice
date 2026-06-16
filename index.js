@@ -1,4 +1,11 @@
-import 'dotenv/config'
+
+
+
+
+
+
+
+/*import 'dotenv/config'
 import mongoose from 'mongoose'
 import { DB_NAME } from './constants.js';
 import express from 'express'
@@ -18,4 +25,4 @@ const app = express()
     } catch (error) {
         console.log("Error in connecting to the database", error)
     }
-})()
+})()*/
